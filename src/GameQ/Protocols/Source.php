@@ -65,6 +65,7 @@ class Source extends Protocol
         "\x6d" => "processDetailsGoldSource", // m, goldsource
         "\x44" => "processPlayers", // D
         "\x45" => "processRules", // E
+        "\x41" => "processRules", // A
     ];
 
     /**
